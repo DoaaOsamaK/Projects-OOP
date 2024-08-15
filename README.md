@@ -6,7 +6,7 @@ Welcome to my GitHub repository where I share my Object-Oriented Programming (OO
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Project 1: **Car**](#Car)
-  - [Project 2: **Project Name**](#project-2-project-name)
+  - [Project 2: **Airline reservation system**](#Airline_reservation_system)
   - [Project 3: **Project Name**](#project-3-project-name)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
