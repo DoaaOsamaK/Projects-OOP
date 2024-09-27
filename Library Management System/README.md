@@ -1,2 +1,3 @@
 # Library Management System
 ![image](https://github.com/user-attachments/assets/34cfb077-519d-465e-ab6b-50193e8d9264)
+Design and implement a Library Management System in Java using Object-Oriented Programming (OOP) principles. The system should include the following classes: Book, Librarian, Member, Person, and LibraryManagementSystem. Each class should encapsulate relevant attributes and methods. Ensure to demonstrate the use of inheritance, polymorphism, and encapsulation in your design. The system should also manage the borrowing and returning of books by members, as well as the administration by the librarian.
